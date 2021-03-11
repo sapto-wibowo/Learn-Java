@@ -1,0 +1,7 @@
+18015,Budi Nur Setya,Informatika,R02,70
+18010,Andi Rahmat,Informatika,R02,60
+18005,Setiawan Budi,Informatika,R02,85
+18007,Vivi Amelia,Informatika,R02,90
+18004,Sarah Azzahra,Informatika,R02,75
+18055,Agus Candra,Informatika,R02,88
+18099,SaWi,Informatika,R02,90
